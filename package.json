@@ -1,0 +1,8 @@
+{
+  "name": "ender-eye-triangulator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:js": "node --check behavior_pack/scripts/triangulator.js && node --check behavior_pack/scripts/main.js"
+  }
+}

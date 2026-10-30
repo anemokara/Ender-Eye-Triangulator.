@@ -1,0 +1,25 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ender Eye Triangulator",
+    "description": "Triangulates a target from two Ender Eye observations.",
+    "uuid": "3ad3d79a-8a8a-4e31-a1af-55d641df0d8d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/main.js",
+      "uuid": "8bf6af69-c0f4-48d8-ac2d-d8b8f6629b84",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.21.0"
+    }
+  ]
+}

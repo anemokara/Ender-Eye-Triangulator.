@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Ender Eye Triangulator Resources",
+    "description": "Required resource pack for the Ender Eye Triangulator addon.",
+    "uuid": "d3910c21-3d7d-4d88-ae38-2c7d3658c9d3",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "ce9142bc-0b8e-4a5d-96a0-1be941f9552d",
+      "version": [1, 0, 0]
+    }
+  ]
+}
